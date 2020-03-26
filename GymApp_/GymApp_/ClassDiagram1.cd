@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GymApp_Group9.CreateAccountExt" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQCAAABAAAACEAAACAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CreateAccountExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.CreateAccountPT" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQCAAABAAAACEAAACAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CreateAccountPT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.CreateAccountStaff" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAABAAAACEAAACAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CreateAccountStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.CreateAccountStudent" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQCAAABAAAACkAAACAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CreateAccountStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.CreateAccountVol" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAABAAAACEAAACAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CreateAccountVol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.EditDetails" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAACCICBABIAiAAAIiAIAAABAAAEAAggAABAA=</HashCode>
+      <FileName>EditDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.ExterLoggedIn" Collapsed="true">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAACIAiAADQAAAGAAAABAAEAEAAAgEAAAA=</HashCode>
+      <FileName>ExterLoggedIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.MainForm" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAEAEjAIAACABAAEQAAAEEIBAAIAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.PTLoggedIn" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAACIAgAACQAAACAAAABAAEAEAAAiAAAAA=</HashCode>
+      <FileName>PTLoggedIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.StaffLoggedIn" Collapsed="true">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACRACJIgAFDYAgECAAIADAAEEEMAAigACAA=</HashCode>
+      <FileName>StaffLoggedIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.StudentLoggedIn" Collapsed="true">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAACAACIAiAADQAAAHAAAABAAEAEAAAgEAAAA=</HashCode>
+      <FileName>StudentLoggedIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.VolLoggedIn" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACIAgAACQAAACAAAABAAEAEAAAgAAAAA=</HashCode>
+      <FileName>VolLoggedIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.WelcomeForm" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>WelcomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymApp_Group9.Validation" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
